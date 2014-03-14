@@ -1,6 +1,6 @@
 {
     "name": "The Unlord's XDM Plugins", 
-    "info_url": "https://github.com/jmichiel/XDM-Plugins/tree/master", 
+    "info_url": "https://github.com/carze/XDM-Plugins/", 
     "plugins": {
         "be.unlord.file.size": [
             {
